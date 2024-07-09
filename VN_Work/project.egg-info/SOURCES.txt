@@ -1,0 +1,13 @@
+setup.py
+VN_Work/__init__.py
+VN_Work/items.py
+VN_Work/middlewares.py
+VN_Work/pipelines.py
+VN_Work/settings.py
+VN_Work/spiders/__init__.py
+VN_Work/spiders/vietnamwork.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

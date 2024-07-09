@@ -1,0 +1,13 @@
+setup.py
+DevWork/__init__.py
+DevWork/items.py
+DevWork/middlewares.py
+DevWork/pipelines.py
+DevWork/settings.py
+DevWork/spiders/__init__.py
+DevWork/spiders/devwork.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
